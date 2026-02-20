@@ -1,4 +1,4 @@
-/* button{
+/* /* button{
    
     margin-left:auto;
     margin-right:auto;
@@ -10,7 +10,6 @@
     padding-left: 10;
     padding-right:10px;
 } */
-
 
 /* .main{
     margin-top:100px;
@@ -63,30 +62,24 @@
     justify-content:center;
 } */
 
-
-
-body{
-   margin:20px;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;  
-
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.card{
-    display:flex;
-    justify-content: space-around;
-    width:450px;
-    margin: 0  auto;
-    
-    padding:20px;
-    
-    text-align:center;
-  
-    color:#2b2839;
-    background: #ddebf8;
-    border-bottom: 2px solid #d8cefe;
-}
-.image{
-    width: 150px;
-   
-}
+.card {
+  display: flex;
+  justify-content: space-around;
+  width: 450px;
+  margin: 0 auto;
 
+  padding: 20px;
 
+  text-align: center;
+
+  color: #2b2839;
+  background: #b0c9e0;
+  border-bottom: 2px solid #d8cefe;
+}
+.image {
+  width: 150px;
+}
